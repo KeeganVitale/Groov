@@ -4,6 +4,8 @@ Groov is an open-source desktop music player built with Python and Qt (PySide6).
 
 It focuses on local library playback with playlists, podcasts, metadata support, and a live spectrum visualizer.
 
+Repository: https://github.com/KeeganVitale/groov
+
 ## Features
 
 - Local music library management (folders + files)
@@ -114,3 +116,4 @@ Issues and pull requests are welcome.
 ## License
 
 MIT. See `LICENCE`.
+
