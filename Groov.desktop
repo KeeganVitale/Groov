@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Groov
+Exec=Groov
+Icon=assets/icons/groov.svg
+Type=Application
+Categories=Audio;Music;Player;
+StartupNotify=true
+StartupWMClass=Groov
+MimeType=audio/mpeg;audio/flac;audio/x-wav;audio/ogg;
+Actions=PinToDock;
+
+[Desktop Action PinToDock]
+Name=Pin to Dock
+Exec=Groov --pin-to-dock
+OnlyShowIn=GNOME;Unity;

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Compatibility shim for tools that still check for apt-key presence.
+exit 0
